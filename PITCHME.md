@@ -1,13 +1,10 @@
-<link href="https://fonts.googleapis.com/css?family=Krub:300,400" rel="stylesheet"> 
-
-
 # Mini GIT course
 
+@css[byline](MARCO)
 ---
 
 ## Version control
 
-@css[byline](MARCO)
 
 @fa[code-fork]
 
