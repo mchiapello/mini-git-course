@@ -6,6 +6,6 @@
 ## Version control
 
 
-@fa[code-branch]
+@fa[github]
 
 
