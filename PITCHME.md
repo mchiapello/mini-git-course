@@ -4,7 +4,10 @@
 ---
 
 ## Version control
-@css[right](![Logo](assets/img/phd101212s.png))
+
+@snap[east]
+![Logo](assets/img/phd101212s.png)
+@snapend
 
 +++
 
