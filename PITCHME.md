@@ -2,11 +2,9 @@
 
 @css[byline right](Marco Chiapello)
 ---
-@snap[north]
 ## Version control
-@snapend
 
-@snap[east]
+@snap[east sidebar]
 ![Logo](assets/img/phd101212s.png)
 @snapend
 
