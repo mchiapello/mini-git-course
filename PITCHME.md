@@ -6,10 +6,6 @@
 ## Version control
 
 
-@fa[code-fork]
+@fa[code-branch]
 
-@transition[none]
 
-@snap[south]
-@css[byline](South)
-@snapend
