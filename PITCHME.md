@@ -2,7 +2,6 @@
 
 @css[byline right](Marco Chiapello)
 ---
-## Version control
 
 @snap[east sidebar]
 ![Logo](assets/img/phd101212s.png)
