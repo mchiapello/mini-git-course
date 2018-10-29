@@ -1,6 +1,6 @@
 # Mini GIT course
 
-@css[byline](MARCO)
+@css[byline](Marco Chiapello)
 ---
 
 ## Version control
@@ -11,5 +11,5 @@
 @transition[none]
 
 @snap[south]
-South
+@css[byline](South)
 @snapend
