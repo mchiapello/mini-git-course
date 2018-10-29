@@ -3,7 +3,10 @@
 @css[byline right](Marco Chiapello)
 ---
 ## Version control
----
+
+@fa[code-merge fa-3x]
+
++++
 
 @snap[east sidebar]
 ![Logo](assets/img/phd101212s.png)
