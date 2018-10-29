@@ -1,10 +1,10 @@
-@title[Hello, World!]
+# Hello, World!
 
 ---
 
 ## Regular Slide Content
 
 @snap[north-west]
-The Fastest Way From Idea To Presentation
+@size[1em](The Fastest Way From Idea To Presentation)
 @snapend
 
