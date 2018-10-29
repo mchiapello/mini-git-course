@@ -10,11 +10,9 @@
 
 
 @snap[east sidebar]
-* The whole idea behind any **version control** system is to **store “safe” copies** of a project 
-@snapend
-
-@snap[east sidebar]
-* You never have to worry about irreparably breaking your code base
+The whole idea behind any **version control** system is to **store “safe” copies** of a project 
+<\br>
+You never have to worry about irreparably breaking your code base
 @snapend
 
 @snap[west sidebar]
