@@ -6,6 +6,6 @@
 ## Version control
 
 
-@fa[github]
+@fa[github fa-3x]
 
 
