@@ -4,3 +4,7 @@
   letter-spacing: 1px;
 }
 
+.right {
+    position: absolute;
+    right: 0px;
+}

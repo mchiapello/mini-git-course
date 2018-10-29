@@ -1,6 +1,6 @@
 # Mini GIT course
 
-@css[byline](Marco Chiapello)
+@css[byline right](Marco Chiapello)
 ---
 
 ## Version control
