@@ -1,10 +1,9 @@
-# Hello, World!
+# Mini GIT course
 
 ---
 
-## Regular Slide Content
+## Version control
 
-@snap[north-west]
-@size[1em](The Fastest Way From Idea To Presentation)
+@snap[south]
+South
 @snapend
-
