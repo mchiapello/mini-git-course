@@ -4,7 +4,7 @@
 ---
 ## Version control
 
-@fa[code-merge fa-3x]
+@fa[code-fork fa-3x]
 
 +++
 
