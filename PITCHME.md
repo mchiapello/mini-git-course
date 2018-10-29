@@ -11,7 +11,7 @@
 
 @snap[east sidebar]
 The whole idea behind any **version control** system is to **store “safe” copies** of a project 
-<\br>
+<br>
 You never have to worry about irreparably breaking your code base
 @snapend
 
