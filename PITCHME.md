@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Krub:300,400');
-</style> 
+<link href="https://fonts.googleapis.com/css?family=Krub:300,400" rel="stylesheet"> 
 
 
 # Mini GIT course
