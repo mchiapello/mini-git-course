@@ -3,6 +3,9 @@
 ---
 
 ## Version control
+
+@css[byline](MARCO)
+
 @transition[none]
 
 @snap[south]
