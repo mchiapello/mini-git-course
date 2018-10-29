@@ -1,3 +1,8 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Krub:300,400');
+</style> 
+
+
 # Mini GIT course
 
 ---
