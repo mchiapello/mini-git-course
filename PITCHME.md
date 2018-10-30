@@ -9,14 +9,14 @@
 +++
 
 
-@snap[east sidebar]
+@snap[east span-45]
 @ol[split-screen-list](false)
 - The whole idea behind any **version control** system is to **store “safe” copies** of a project 
 - You never have to worry about irreparably breaking your code base
 @olend
 @snapend
 
-@snap[west sidebar]
+@snap[west span-50]
 ![Logo](assets/img/phd101212s.png)
 @snapend
 
