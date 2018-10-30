@@ -6,10 +6,8 @@
 
 @fa[code-fork fa-3x]
 
-+++
-
-
-@snap[east span-45]
++++?image=assets/img/bg/orange.jpg&position=right&size=50% 100%
+@snap[east text-white span-45]
 @ol[split-screen-list](false)
 - The whole idea behind any **version control** system is to **store “safe” copies** of a project 
 - You never have to worry about irreparably breaking your code base
