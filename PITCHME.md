@@ -20,6 +20,24 @@
 
 +++
 
+pippo
+
+---
+
+## Git
+
+@fa[git fa-3x]
+
++++
+
+explain
+
+---
+
+## Github
+
 @fa[github fa-3x]
+
++++
 
 
