@@ -27,7 +27,7 @@ If a mistake is made, developers can
 @ul[roman]
 - turn back the clock
 - compare earlier versions of the code
-- minimize disruption to all team members
+- minimize disruption to all team members @note[Collaborative repository]
 @ulend
 
 ---
