@@ -48,6 +48,21 @@ If a mistake is made, developers can
 - File can be followed along their history
 @ulend
 
++++
+
+@snap[north span-100]
+@size[1.5em](Benefits of version control)
+@snapend
+
+### SECOND 
+
++++
+
+@snap[north span-100]
+@size[1.5em](Benefits of version control)
+@snapend
+
+### THIRD
 ---
 
 ## Git
