@@ -20,13 +20,15 @@
 
 +++
 
-*Version control* software keeps track of _every modification_ to the code in a special kind of database. 
+**Version control** software keeps track of _every modification_ to the code in a special kind of database. 
 
 If a mistake is made, developers can
 
+@li[roman]
 - turn back the clock
 - compare earlier versions of the code
 - minimize disruption to all team members
+@liend
 
 ---
 
