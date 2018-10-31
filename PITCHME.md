@@ -30,6 +30,14 @@ If a mistake is made, developers can
 - minimize disruption to all team members @note[Collaborative repository]
 @ulend
 
++++?image=assests/img/bg/orange.jpg&position=top&size=100% 10%
+@title[Benefits of version control ]
+
+@snap[north text-white span-100]
+@size[1.5em](Benefits of version control)
+@snapend
+
+
 ---
 
 ## Git
