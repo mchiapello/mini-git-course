@@ -24,11 +24,11 @@
 
 If a mistake is made, developers can
 
-@li[roman]
+@ul[roman]
 - turn back the clock
 - compare earlier versions of the code
 - minimize disruption to all team members
-@liend
+@ulend
 
 ---
 
