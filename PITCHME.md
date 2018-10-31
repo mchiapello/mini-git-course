@@ -30,12 +30,23 @@ If a mistake is made, developers can
 - minimize disruption to all team members @note[Collaborative repository]
 @ulend
 
-+++?image=assets/img/bg/orange.jpg&position=top&size=100% 10%
++++
 
-@snap[north text-white span-100]
+@snap[north span-100]
 @size[1.5em](Benefits of version control)
 @snapend
 
+### FIRST
+
+**A complete long-term change history of every file** 
+
+@ul
+- This means every change made by many individuals over the years. 
+
+- Changes include the creation and deletion of files as well as edits to their contents
+
+- File can be followed along their history
+@ulend
 
 ---
 
