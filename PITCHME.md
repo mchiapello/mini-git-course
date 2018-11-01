@@ -45,7 +45,7 @@ If a mistake is made, developers can
 
 - Changes include the creation and deletion of files as well as edits to their contents
 
-- File can be followed along their history
+- File can be followed along their history @note[Even if the file change name - git follow the file based on the content and not the name]
 @ulend
 
 +++
