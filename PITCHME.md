@@ -120,11 +120,11 @@ A Git repository is a virtual storage of your project. It allows you to save ver
 
 +++
 
-@snap[north span-80]
+@snap[north span-100]
 @size[1.5em](How it works)
 @snapend
 
-@snap[span-100]
+@snap[span-80]
 ![Logo](assets/img/git-operations.png)
 @snapend
 

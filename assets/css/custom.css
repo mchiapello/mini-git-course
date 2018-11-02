@@ -215,6 +215,8 @@
 .span-95 { width: 95% }
 .span-100 { width: 100% }
 
+.span2-80 { width: 80%;
+            height: auto}
 
 /** Reveal.js Core Override Styles **/
 
