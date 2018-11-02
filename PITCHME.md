@@ -124,7 +124,7 @@ A Git repository is a virtual storage of your project. It allows you to save ver
 @size[1.5em](How it works)
 @snapend
 
-@snap[span-80]
+@snap[center span-80]
 ![Logo](assets/img/git-operations.png)
 @snapend
 
