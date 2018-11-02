@@ -80,7 +80,7 @@ By far, the most widely used modern version control system in the world today is
 
 open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel
 
----
++++
 
 Git is good
 
@@ -120,9 +120,11 @@ A Git repository is a virtual storage of your project. It allows you to save ver
 
 +++
 
-## How works
+@snap[north span-100]
+@size[1.5em](How it works)
+@snapend
 
-@snap[west span-50]
+@snap[span-100]
 ![Logo](assets/img/git-operations.png)
 @snapend
 
