@@ -90,10 +90,8 @@ trying to understand what it is doing and why
 
 ## Git
 
-@snap[south-east span-40]
-@quote[By far, the most widely used modern version control system in the world
-today is Git](Bitbucket website)
-@snapend
+@snap[south-east span-40] @quote[By far, the most widely used modern version control system in the world
+today is Git](Bitbucket website) @snapend
 
 +++
 
