@@ -279,7 +279,6 @@ From the detached HEAD state, we can execute git checkout -b new_branch_without_
 The git reset command is a complex and versatile tool for undoing changes. It has three primary forms of invocation. These forms correspond to command line arguments --soft, --mixed, --hard. The three arguments each correspond to Git's three internal state management mechanism's, The Commit Tree (HEAD), The Staging Index, and The Working Directory.
 
 
-
 ---
 ## Github
 
@@ -287,11 +286,25 @@ The git reset command is a complex and versatile tool for undoing changes. It ha
 
 +++
 
-blablba
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+
++++
+
+## DEMO
+
+@ul(false)
+- Create a repo
+- Clone a repo
+- Open and manage issues
+- Gist
+- [Git GUI](https://git-scm.com/downloads/guis/)
+@ulend
 ---
 
 ## References
 
-https://www.atlassian.com/git/tutorials
-
+@ol(false)
+[Bitbucket](https://www.atlassian.com/git/tutorials)
+[Github guides](https://guides.github.com/)
+@olend
