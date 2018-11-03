@@ -144,6 +144,51 @@ When working in Git, or other version control systems, the concept of "saving" i
 
 Git committing is an operation that acts upon a collection of files and directories.
 
++++
+
+## Saving changes
+
+git add
+
+The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit.
+
+In conjunction with these commands, you'll also need git status to view the state of the working directory and the staging area.
+
++++
+
+## Saving changes
+
+the staging area
+
+Instead of committing all of the changes you've made since the last commit, the stage lets you group related changes into highly focused snapshots before actually committing it to the project history. This means you can make all sorts of edits to unrelated files, then go back and split them up into logical commits by adding related changes to the stage and commit them piece-by-piece
+
++++
+
+## Saving changes
+
+Git commit
+
++++
+
+## Saving changes
+
+Git diff
+
+Diffing is a function that takes two input data sets and outputs the changes between them. git diff is a multi-use Git command that when executed runs a diff function on Git data sources. 
+
+git diff can be run on binary files. Unfortunately, the default output is not very helpful.
+
++++
+
+## Saving changes
+
+.gitignore
+
+Git sees every file in your working copy as one of three things:
+
+    tracked - a file which has been previously staged or committed;
+        untracked - a file which has not been staged or committed; or
+            ignored - a file which Git has been explicitly told to ignore.
 
 
 ## Github
