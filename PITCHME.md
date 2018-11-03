@@ -56,7 +56,16 @@ If a mistake is made, developers can
 
 ### SECOND 
 
-Branching and merging. Having team members work concurrently is a no-brainer, but even individuals working on their own can benefit from the ability to work on independent streams of changes. Creating a "branch" in VCS tools keeps multiple streams of work independent from each other while also providing the facility to merge that work back together, enabling developers to verify that the changes on each branch do not conflict. Many software teams adopt a practice of branching for each feature or perhaps branching for each release, or both. There are many different workflows that teams can choose from when they decide how to make use of branching and merging facilities in VCS.
+**Branching and merging** 
+
+Having team members work concurrently is a **no-brainer**, but even individuals
+working on their own can benefit from the ability to work on **independent
+streams of changes**. 
+
+Creating a "branch" in VCS tools keeps multiple streams of
+**work independent from each other** while also providing the facility to merge
+that work back together, enabling developers to **verify that the changes on each
+branch do not conflict** 
 
 +++
 
@@ -66,7 +75,16 @@ Branching and merging. Having team members work concurrently is a no-brainer, bu
 
 ### THIRD
 
-Traceability. Being able to trace each change made to the software and connect it to project management and bug tracking software such as Jira, and being able to annotate each change with a message describing the purpose and intent of the change can help not only with root cause analysis and other forensics. Having the annotated history of the code at your fingertips when you are reading the code, trying to understand what it is doing and why it is so designed can enable developers to make correct and harmonious changes that are in accord with the intended long-term design of the system. This can be especially important for working effectively with legacy code and is crucial in enabling developers to estimate future work with any accuracy.
+**Traceability**
+
+Being able to **trace each change** made to the software and connect it to project
+management and being able to **annotate
+each change** with a message describing the purpose and intent of the change can
+help not only with root cause analysis and other forensics. 
+
+Having the
+**annotated history** of the code at your fingertips when you are reading the code,
+trying to understand what it is doing and why 
 
 ---
 
@@ -74,11 +92,9 @@ Traceability. Being able to trace each change made to the software and connect i
 
 @fa[git fa-3x]
 
-+++
-
-By far, the most widely used modern version control system in the world today is Git
-
-open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel
+@snap[south-east span-40]
+@quote[By far, the most widely used modern version control system in the world
+today is Git](Bitbucket website)
 
 +++
 
