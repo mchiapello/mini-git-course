@@ -129,8 +129,35 @@ A Git repository is a virtual storage of your project. It allows you to save ver
 @snapend
 
 +++
+## Three Trees of Git
 
-## Initializing a new repository: git init
+@ol(false)
+- The working directory
+- Staging index
+- Commit history
+@olend
+
++++
+The working directory
+
+The first tree we will examine is "The Working Directory". This tree is in sync with the local filesystem and is representative of the immediate changes made to content in files and directories.
+
++++
+Staging index
+
+Next up is the 'Staging Index' tree. This tree is tracking Working Directory changes, that have been promoted with git add, to be stored in the next commit. This tree is a complex internal caching mechanism. Git generally tries to hide the implementation details of the Staging Index from the user.
+
++++
+
+Commit history
+
+The final tree is the Commit History. The git commit command adds changes to a permanent snapshot that lives in the Commit History. This snapshot also includes the state of the Staging Index at the time of commit.
+
+
++++
+## Initializing a new repository: 
+
+[git init](https://git-scm.com/docs/git-init)
 
 To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. This will also create a new master branch. 
 
@@ -148,7 +175,7 @@ Git committing is an operation that acts upon a collection of files and director
 
 ## Saving changes
 
-git add
+[git add](https://git-scm.com/docs/git-add)
 
 The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit.
 
@@ -193,6 +220,18 @@ Git sees every file in your working copy as one of three things:
             ignored - a file which Git has been explicitly told to ignore.
 
 
++++
+## Inspecting a repository
+
+[git status](https://git-scm.com/docs/git-status)
+
+The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
+
++++
+## Inspecting a repository
+[git log](https://git-scm.com/docs/git-log)
+
++++
 ## Github
 
 @fa[github fa-3x]
