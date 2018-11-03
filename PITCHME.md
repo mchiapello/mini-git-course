@@ -201,7 +201,7 @@ Stores the current contents of the index in a new commit along with a log messag
 
 ## Saving changes
 
-Git diff
+[Git diff](https://git-scm.com/docs/git-diff)
 
 Diffing is a function that takes two input data sets and outputs the changes between them. git diff is a multi-use Git command that when executed runs a diff function on Git data sources. 
 
@@ -211,7 +211,7 @@ git diff can be run on binary files. Unfortunately, the default output is not ve
 
 ## Saving changes
 
-.gitignore
+[.gitignore](https://git-scm.com/docs/gitignore)
 
 Git sees every file in your working copy as one of three things:
 
@@ -232,6 +232,14 @@ The git status command displays the state of the working directory and the stagi
 [git log](https://git-scm.com/docs/git-log)
 
 +++
+git syncing
+
+The git remote command lets you create, view, and delete connections to other repositories. Remote connections are more like bookmarks rather than direct links into other repositories. Instead of providing real-time access to another repository, they serve as convenient names that can be used to reference a not-so-convenient URL.
+
+![Logo](assets/img/remote.svg)
+
+
+---
 ## Github
 
 @fa[github fa-3x]
