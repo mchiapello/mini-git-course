@@ -236,7 +236,48 @@ git syncing
 
 The git remote command lets you create, view, and delete connections to other repositories. Remote connections are more like bookmarks rather than direct links into other repositories. Instead of providing real-time access to another repository, they serve as convenient names that can be used to reference a not-so-convenient URL.
 
-![Logo](assets/img/remote.svg)
++++
+
+[git clone](https://git-scm.com/docs/git-clone)
+
+git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. 
+
++++
+
+[git pull](https://git-scm.com/docs/git-pull)
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows.
+
+The git pull command is actually a combination of two other commands, git fetch followed by git merge.
+
++++
+
+[git push](https://git-scm.com/docs/git-push)
+The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches. 
+
++++
+## Finding what is lost: Reviewing old commits
+The whole idea behind any version control system is to store “safe” copies of a project so that you never have to worry about irreparably breaking your code base. Once you’ve built up a project history of commits, you can review and revisit any commit in the history.
+
++++
+
+## Viewing an old revision
+
+git checkout
+
+You can look at files, compile the project, run tests, and even edit files without worrying about losing the current state of the project. Nothing you do in here will be saved in your repository. To continue developing, you need to get back to the “current” state of your project
+
+Checking out a specific commit will put the repo in a "detached HEAD" state. This means you are no longer working on any branch. In a detached state, any new commits you make will be orphaned when you change branches back to an established branch. Orphaned commits are up for deletion by Git's garbage collector. 
+
+From the detached HEAD state, we can execute git checkout -b new_branch_without_crazy_commit. This will create a new branch named new_branch_without_crazy_commit and switch to that state.
+
++++
+
+## How to undo a commit with 
+
+[git reset](https://git-scm.com/docs/git-reset)
+
+The git reset command is a complex and versatile tool for undoing changes. It has three primary forms of invocation. These forms correspond to command line arguments --soft, --mixed, --hard. The three arguments each correspond to Git's three internal state management mechanism's, The Commit Tree (HEAD), The Staging Index, and The Working Directory.
+
 
 
 ---
