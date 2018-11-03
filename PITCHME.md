@@ -305,6 +305,6 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 ## References
 
 @ol(false)
-[Bitbucket](https://www.atlassian.com/git/tutorials)
-[Github guides](https://guides.github.com/)
+- [Bitbucket](https://www.atlassian.com/git/tutorials)
+- [Github guides](https://guides.github.com/)
 @olend
