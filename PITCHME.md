@@ -166,7 +166,9 @@ Instead of committing all of the changes you've made since the last commit, the 
 
 ## Saving changes
 
-Git commit
+[Git commit](https://git-scm.com/docs/git-commit)
+
+Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
 
 +++
 
