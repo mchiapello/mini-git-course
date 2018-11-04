@@ -90,7 +90,7 @@ trying to understand what it is doing and why
 
 ## Git
 
-@snap[south-east text-grey]
+@snap[south-east text-gray]
 @size[.5em](By far, the most widely used modern version control system in the world today is git)
 @snapend
 
