@@ -90,7 +90,10 @@ trying to understand what it is doing and why
 
 ## Git
 
-@snap[east text-black] (By far, the most widely used modern version control system in the world today is git) @snapend
+@snap[east text-black]
+By far, the most widely used modern version control
+system in the world today is git
+@snapend
 
 +++
 
