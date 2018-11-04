@@ -94,6 +94,10 @@ trying to understand what it is doing and why
 @size[.5em](By far, the most widely used modern version control system in the world today is git)
 @snapend
 
+@snap[south-west template-note text-gray span-30]
+By far, the most widely used modern version control system in the world today is git
+@snapend
+
 +++
 
 Git is good
