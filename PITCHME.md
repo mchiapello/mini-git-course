@@ -52,6 +52,7 @@ If a mistake is made, developers can
 
 @snap[north span-100]
 @size[1.5em](Benefits of version control)
+
 ### SECOND 
 @snapend
 
