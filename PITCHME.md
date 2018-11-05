@@ -52,12 +52,11 @@ If a mistake is made, developers can
 
 @snap[north span-100]
 @size[1.5em](Benefits of version control)
-
-### SECOND 
 @snapend
 
+### SECOND 
 
-@snap[west span-40 template-note2]
+@snap[west span-45 template-note2]
 **Branching and merging** 
 
 Having team members work concurrently is a **no-brainer**, but even individuals
@@ -65,7 +64,7 @@ working on their own can benefit from the ability to work on **independent
 streams of changes**. 
 @snapend
 
-@snap[east span-40 template-note2]
+@snap[east span-45 template-note2]
 Creating a "branch" in VCS tools keeps multiple streams of
 **work independent from each other** while also providing the facility to merge
 that work back together, enabling developers to **verify that the changes on each
