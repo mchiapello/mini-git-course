@@ -55,16 +55,12 @@ If a mistake is made, developers can
 @snapend
 
 ### SECOND 
-<br>
 
-@snap[west span-45 template-note2]
 **Branching and merging** 
 
-<br>
-Having team members work concurrently is a **no-brainer**, but even individuals
+@css[template-note2](Having team members work concurrently is a **no-brainer**, but even individuals
 working on their own can benefit from the ability to work on **independent
-streams of changes**. 
-@snapend
+streams of changes**.) 
 
 @snap[east span-45 template-note2]
 Creating a "branch" in VCS tools keeps multiple streams of
