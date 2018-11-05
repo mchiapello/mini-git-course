@@ -64,12 +64,12 @@ working on their own can benefit from the ability to work on **independent
 streams of changes**. 
 @spanend
 
-@span[east span-40]
+@snap[east span-40]
 Creating a "branch" in VCS tools keeps multiple streams of
 **work independent from each other** while also providing the facility to merge
 that work back together, enabling developers to **verify that the changes on each
 branch do not conflict** 
-@spanend
+@snapend
 
 +++
 
