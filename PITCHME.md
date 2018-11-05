@@ -58,9 +58,7 @@ If a mistake is made, developers can
 
 **Branching and merging** 
 
-@css[template-note2](Having team members work concurrently is a **no-brainer**, but even individuals
-working on their own can benefit from the ability to work on **independent
-streams of changes**.) 
+@css[template-note2](Having team members work concurrently is a **no-brainer**, but even individuals working on their own can benefit from the ability to work on **independent streams of changes**.) 
 
 @snap[east span-45 template-note2]
 Creating a "branch" in VCS tools keeps multiple streams of
