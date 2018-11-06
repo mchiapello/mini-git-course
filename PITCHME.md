@@ -101,14 +101,11 @@ By far, the most widely used modern version control system in the world today is
 
 +++
 
+## Criticism of Git
 
-
-
-+++
-
-Criticism of Git
-
-One common criticism of Git is that it can be difficult to learn. Some of the terminology in Git will be novel to newcomers and for users of other systems
+One common criticism of Git is that it can be **difficult to learn**. 
+<br>
+Some of the **terminology** in Git will be novel to newcomers and for users of other systems.
 
 ---
 
