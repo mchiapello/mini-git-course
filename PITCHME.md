@@ -138,21 +138,25 @@ A Git repository is a **virtual storage** of your project. It allows you to **sa
 
 +++
 @snap[north span-100]
-@size[1.5em](The working directory)
+@size[1.2em](The working directory)
 @snapend
 
-The first tree we will examine is "The Working Directory". This tree is in sync with the local filesystem and is representative of the immediate changes made to content in files and directories.
+This tree is **in sync with the local filesystem** and is representative of the immediate changes made to content in files and directories.
 
 +++
-Staging index
+@snap[north span-100]
+@size[1.2em](Staging index)
+@snapend
 
-Next up is the 'Staging Index' tree. This tree is tracking Working Directory changes, that have been promoted with git add, to be stored in the next commit. This tree is a complex internal caching mechanism. Git generally tries to hide the implementation details of the Staging Index from the user.
+
+This tree is **tracking Working Directory changes**, that have been **promoted with git add**, to be stored in the next commit. This tree is a **complex internal caching mechanism**. Git generally tries to hide the implementation details of the Staging Index from the user.
 
 +++
+@snap[north span-100]
+@size[1.2em](Commit history)
+@snapend
 
-Commit history
-
-The final tree is the Commit History. The git commit command adds changes to a permanent snapshot that lives in the Commit History. This snapshot also includes the state of the Staging Index at the time of commit.
+The git commit command adds changes to a **permanent snapshot** that lives in the Commit History. This snapshot also **includes the state of the Staging Index** at the time of commit.
 
 
 +++
@@ -160,7 +164,12 @@ The final tree is the Commit History. The git commit command adds changes to a p
 
 [git init](https://git-scm.com/docs/git-init)
 
-To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. This will also create a new master branch. 
+@ul[template-note3]
+- To **create a new repo**, you'll use the git init command.
+- **git init** is a **one-time command** you use during the initial setup of a new repo.
+- Executing this command will create a **new .git subdirectory** in your current working directory.
+- This will also create a new **master branch**. 
+@ulend
 
 DEMO @note[create a local repository]
 
