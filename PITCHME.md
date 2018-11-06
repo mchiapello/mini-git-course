@@ -202,7 +202,7 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 [Git commit](https://git-scm.com/docs/git-commit)
 
 @ul[template-note3]
-- Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
+- Stores the current contents of the index in a **new commit along with a log message** from the user describing the changes.
 @ulend
 
 +++
