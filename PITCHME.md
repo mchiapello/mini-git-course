@@ -160,7 +160,7 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 
 
 +++
-## Initializing a new repository: 
+#### Initializing a new repository: 
 
 [git init](https://git-scm.com/docs/git-init)
 
@@ -171,7 +171,6 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 - This will also create a new **master branch**. 
 @ulend
 
-DEMO @note[create a local repository]
 
 +++
 
