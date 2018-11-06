@@ -88,9 +88,12 @@ By far, the most widely used modern version control system in the world today is
 
 +++
 
-Git is good
+## Git is good
 
-Git has the functionality, performance, security and flexibility that most teams and individual developers need. These attributes of Git are detailed above. In side-by-side comparisons with most other alternatives, many teams find that Git is very favorable.
+@ul[template-note3](false)
+Git has the functionality, performance, security and flexibility that most teams and individual developers need. 
+In side-by-side comparisons with most other alternatives, many teams find that Git is very favorable.
+@ulend
 
 +++
 

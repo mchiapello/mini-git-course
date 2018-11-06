@@ -179,6 +179,11 @@
   font-size: 0.6em !important;
 }
 
+.template-note3 {
+  letter-spacing: 0.1em;
+  font-size: 1em !important;
+}
+
 .docslink {
   color: #a49436;
   font-size: 0.5em !important;
