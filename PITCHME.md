@@ -56,7 +56,7 @@ If a mistake is made, developers can
 
 ### SECOND 
 
-@ol[template-note2]
+@ol[template-note2](false)
 - **Branching and merging**:  Having team members work concurrently is a **no-brainer**, but even individuals working on their own can benefit from the ability to work on **independent streams of changes**.
 <br>
 - Creating a "branch" in VCS tools keeps multiple streams of **work independent from each other** while also providing the facility to merge that work back together, enabling developers to **verify that the changes on each branch do not conflict** 
