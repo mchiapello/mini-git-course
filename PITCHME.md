@@ -56,11 +56,11 @@ If a mistake is made, developers can
 
 ### SECOND 
 
-@ol[template-note2](false)
+@ul[template-note2](false)
 - **Branching and merging**:  Having team members work concurrently is a **no-brainer**, but even individuals working on their own can benefit from the ability to work on **independent streams of changes**.
 <br>
 - Creating a "branch" in VCS tools keeps multiple streams of **work independent from each other** while also providing the facility to merge that work back together, enabling developers to **verify that the changes on each branch do not conflict** 
-@olend
+@ulend
 
 +++
 
@@ -72,14 +72,11 @@ If a mistake is made, developers can
 
 **Traceability**
 
-Being able to **trace each change** made to the software and connect it to project
-management and being able to **annotate
-each change** with a message describing the purpose and intent of the change can
-help not only with root cause analysis and other forensics. 
-
-Having the
-**annotated history** of the code at your fingertips when you are reading the code,
-trying to understand what it is doing and why 
+@ul[template-note2](false)
+- Being able to **trace each change** made to the software and connect it to project management and being able to **annotate each change** with a message describing the purpose and intent of the change can help not only with root cause analysis and other forensics. 
+<br>
+- Having the **annotated history** of the code at your fingertips when you are reading the code, trying to understand what it is doing and why 
+@ulend
 
 ---
 
