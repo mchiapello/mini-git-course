@@ -40,11 +40,11 @@ If a mistake is made, developers can
 
 **A complete long-term change history of every file** 
 
-@ul
+@ul[template-note2](false)
 - This means every change made by many individuals over the years. 
-
+<br>
 - Changes include the creation and deletion of files as well as edits to their contents
-
+<br>
 - File can be followed along their history @note[Even if the file change name - git follow the file based on the content and not the name]
 @ulend
 
