@@ -174,11 +174,13 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 
 +++
 
-## Saving changes
+#### Saving changes
 
-When working in Git, or other version control systems, the concept of "saving" is a more nuanced process than saving in a word processor or other traditional file editing applications. The traditional software expression of "saving" is synonymous with the Git term "committing"
-
-Git committing is an operation that acts upon a collection of files and directories.
+@ul[template-note3]
+- When working in Git the **concept of "saving"** is a more nuanced process than saving in a word processor.
+- The traditional software expression of "saving" is **synonymous with the Git term "committing"**
+- Git committing is an operation that **acts upon a collection of files and directories**.
+@ulend
 
 +++
 
