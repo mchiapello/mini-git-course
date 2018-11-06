@@ -184,29 +184,26 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 
 +++
 
-## Saving changes
+#### Saving changes
 
 [git add](https://git-scm.com/docs/git-add)
 
-The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit.
-
-In conjunction with these commands, you'll also need git status to view the state of the working directory and the staging area.
-
-+++
-
-## Saving changes
-
-the staging area
-
-Instead of committing all of the changes you've made since the last commit, the stage lets you group related changes into highly focused snapshots before actually committing it to the project history. This means you can make all sorts of edits to unrelated files, then go back and split them up into logical commits by adding related changes to the stage and commit them piece-by-piece
+@ul[template-note3]
+- The git add command adds a change in the working directory **to the staging area**.
+- It tells Git that you want to **include updates to a particular file in the next commit**. 
+- git add **doesn't really affect the repository** in any significant way—changes are not actually recorded until you run git commit.
+- In conjunction with these commands, you'll also need **git status to view the state** of the working directory and the staging area.
+@ulend
 
 +++
 
-## Saving changes
+#### Saving changes
 
 [Git commit](https://git-scm.com/docs/git-commit)
 
-Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
+@ul[template-note3]
+- Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
+@ulend
 
 +++
 
