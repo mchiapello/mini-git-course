@@ -137,7 +137,9 @@ A Git repository is a **virtual storage** of your project. It allows you to **sa
 @olend
 
 +++
-The working directory
+@snap[north span-100]
+@size[1.5em](The working directory)
+@snapend
 
 The first tree we will examine is "The Working Directory". This tree is in sync with the local filesystem and is representative of the immediate changes made to content in files and directories.
 
