@@ -109,13 +109,13 @@ Some of the **terminology** in Git will be novel to newcomers and for users of o
 
 ---
 
-Git Tutorial
+# Git Tutorial
 
 +++
 
-What is a Git repository?
+### What is a Git repository?
 
-A Git repository is a virtual storage of your project. It allows you to save versions of your code, which you can access when needed. 
+A Git repository is a **virtual storage** of your project. It allows you to **save versions of your code**, which you can access when needed. 
 
 +++
 
