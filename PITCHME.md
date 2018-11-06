@@ -94,23 +94,16 @@ By far, the most widely used modern version control system in the world today is
 - Git has the functionality, performance, security and flexibility that most teams and individual developers need. 
 <br>
 - In side-by-side comparisons with most other alternatives, many teams find that Git is very favorable.
+- Git is a de facto standard
+- Git is a quality open source project
+- Git is a very well supported open source project with over a decade of solid stewardship.
+- Documentation is excellent and plentiful, including books, tutorials and dedicated web sites. 
 @ulend
 
 +++
 
-Git is a de facto standard
 
-Git is the most broadly adopted tool of its kind. 
 
-Git also means that many third party software tools and services are already integrated with Git including IDEs, and our own tools like DVCS desktop client Sourcetree, issue and project tracking software, Jira, and code hosting service, Bitbucket.
-
-+++
-
-Git is a quality open source project
-
-Git is a very well supported open source project with over a decade of solid stewardship.
-
-Git enjoys great community support and a vast user base. Documentation is excellent and plentiful, including books, tutorials and dedicated web sites. 
 
 +++
 
