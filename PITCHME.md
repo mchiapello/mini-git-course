@@ -226,9 +226,9 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 @ul[template-note3]
 - Git sees every file in your working copy as one of three things:
 <br>
-    - tracked - a file which has been previously staged or committed;
-    - untracked - a file which has not been staged or committed; or
-    - ignored - a file which Git has been explicitly told to ignore.
+    - **tracked** - a file which has been previously staged or committed;
+    - **untracked** - a file which has not been staged or committed; or
+    - **ignored** - a file which Git has been explicitly told to ignore.
 @ulend
 
 
@@ -237,11 +237,22 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 
 [git status](https://git-scm.com/docs/git-status)
 
-The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. Status output does not show you any information regarding the committed project history. For this, you need to use git log.
+@ul[template-note3]
+- The git status command displays the **state of the working directory** and the **staging area**.
+- It lets you see **which changes have been staged**, which haven’t, and **which files aren’t being tracked** by Git.
+- Status output does not show you **any information regarding the committed project history**.
+@ulend
 
 +++
 ## Inspecting a repository
 [git log](https://git-scm.com/docs/git-log)
+
+@ul[template-note3]
+- The git log command **displays committed snapshots**.
+- It lets you **list** the project history, **filter** it, and **search** for specific changes.
+<br>
+- Filter by amount (-1), by date(--after="2081-10-07"), by message(--grep="pippo"), by file ( -- filename), by content (-S"Hello, World") 
+@ulend
 
 +++
 git syncing
