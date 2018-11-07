@@ -211,9 +211,11 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 
 [Git diff](https://git-scm.com/docs/git-diff)
 
-Diffing is a function that takes two input data sets and outputs the changes between them. git diff is a multi-use Git command that when executed runs a diff function on Git data sources. 
-
-git diff can be run on binary files. Unfortunately, the default output is not very helpful.
+@ul[template-note3]
+- Diffing is a function that takes two input data sets and outputs the **changes between them**.
+- git diff is a multi-use Git command that when executed runs a **diff function** on Git data sources. 
+- git diff can be run on **binary files**. Unfortunately, the default output is not very helpful.
+@ulend
 
 +++
 
@@ -221,11 +223,13 @@ git diff can be run on binary files. Unfortunately, the default output is not ve
 
 [.gitignore](https://git-scm.com/docs/gitignore)
 
-Git sees every file in your working copy as one of three things:
-
-    tracked - a file which has been previously staged or committed;
-        untracked - a file which has not been staged or committed; or
-            ignored - a file which Git has been explicitly told to ignore.
+@ul[template-note3]
+- Git sees every file in your working copy as one of three things:
+<br>
+    - tracked - a file which has been previously staged or committed;
+    - untracked - a file which has not been staged or committed; or
+    - ignored - a file which Git has been explicitly told to ignore.
+@ulend
 
 
 +++
