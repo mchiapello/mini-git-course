@@ -323,7 +323,11 @@ Once you’ve built up a project history of commits, you can **review and revisi
 
 [git reset](https://git-scm.com/docs/git-reset)
 
-The git reset command is a complex and versatile tool for undoing changes. It has three primary forms of invocation. These forms correspond to command line arguments --soft, --mixed, --hard. The three arguments each correspond to Git's three internal state management mechanism's, The Commit Tree (HEAD), The Staging Index, and The Working Directory.
+@ul[template-note3]
+- The git reset command is a complex and versatile tool for **undoing changes**.
+- It has three primary forms of **invocation**: --soft, --mixed, --hard.
+- The three arguments each correspond to Git's three **internal state management mechanism**'s, The Commit Tree (HEAD), The Staging Index, and The Working Directory.
+@ulend
 
 
 ---
@@ -333,8 +337,11 @@ The git reset command is a complex and versatile tool for undoing changes. It ha
 
 +++
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+GitHub is a **code hosting platform** for version control and **collaboration**. It lets you and others **work together on projects** from anywhere.
 
++++
+
+![Video](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 +++
 
@@ -352,6 +359,6 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 ## References
 
 @ol[](false)
-- [Bitbucket](https://www.atlassian.com/git/tutorials)
+- [Git tutorial](https://www.atlassian.com/git/tutorials)
 - [Github guides](https://guides.github.com/)
 @olend
