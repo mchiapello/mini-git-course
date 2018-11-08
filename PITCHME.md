@@ -296,9 +296,9 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 +++
 ## Finding what is lost: Reviewing old commits
 
-<br><br>
+<br>
 The **whole idea** behind any version control system is to **store “safe” copies** of a project so that you never have to worry about irreparably breaking your code base. 
-<br> 
+<br><br> 
 Once you’ve built up a project history of commits, you can **review and revisit** any commit in the history.
 
 +++
@@ -307,7 +307,7 @@ Once you’ve built up a project history of commits, you can **review and revisi
 
 [git checkout](https://git-scm.com/docs/git-checkout)
 
-@ul[template-note]
+@ul[template-note2]
 - You can look at files, compile the project, run tests, and even edit files without worrying about losing the current state of the project.
 - Nothing you do in here will be saved in your repository.
 - Checking out a specific commit will put the repo in a "detached HEAD" state. 
