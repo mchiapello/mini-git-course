@@ -308,15 +308,13 @@ Once you’ve built up a project history of commits, you can **review and revisi
 [git checkout](https://git-scm.com/docs/git-checkout)
 
 @ul[template-note2]
-- You can look at files, compile the project, run tests, and even edit files without worrying about losing the current state of the project.
-- Nothing you do in here will be saved in your repository.
-- Checking out a specific commit will put the repo in a "detached HEAD" state. 
-    - This means you are no longer working on any branch.
-    - In a detached state, any new commits you make will be orphaned when you change branches back to an established branch.
-    - Orphaned commits are up for deletion by Git's garbage collector. 
+- Checking out a specific commit will put the repo in a **"detached HEAD" state**. 
+    - This means you are **no longer working on any branch**.
+    - In a detached state, any new commits you make **will be orphaned** when you change branches back to an established branch.
+    - Orphaned commits are up for **deletion by Git**'s garbage collector. 
     - From the detached HEAD state, we can execute git checkout -b new_branch_without_crazy_commit. 
-    - This will create a new branch named new_branch_without_crazy_commit and switch to that state.
-- To continue developing, you need to get back to the “current” state of your project
+    - This will **create a new branch** named new_branch_without_crazy_commit and switch to that state.
+- To continue developing, you need to get **back to the “current” state** of your project
 @ulend
 
 +++
