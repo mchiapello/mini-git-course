@@ -341,7 +341,7 @@ GitHub is a **code hosting platform** for version control and **collaboration**.
 
 +++
 
-![Video](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+![Video](https://www.youtube.com/embed/w3jLJU7DT5E)
 
 +++
 
