@@ -251,28 +251,40 @@ The git commit command adds changes to a **permanent snapshot** that lives in th
 - The git log command **displays committed snapshots**.
 - It lets you **list** the project history, **filter** it, and **search** for specific changes.
 <br>
-- Filter by amount (-1), by date(--after="2081-10-07"), by message(--grep="pippo"), by file ( -- filename), by content (-S"Hello, World") 
+- Filter by **amount** (-1), by **date** (--after="2081-10-07"), by **message** (--grep="pippo"), by **file** ( -- filename), by **content** (-S"Hello, World") 
 @ulend
 
 +++
-git syncing
 
-The git remote command lets you create, view, and delete connections to other repositories. Remote connections are more like bookmarks rather than direct links into other repositories. Instead of providing real-time access to another repository, they serve as convenient names that can be used to reference a not-so-convenient URL.
+## Remote connections
+
+@ul[template-note3]
+- The git remote command lets you create, view, and delete **connections to other repositories**.
+- Remote connections are more like **bookmarks** rather than direct links into other repositories.
+- Instead of providing real-time access to another repository, they serve as convenient names that can be used to **reference** a not-so-convenient URL.
+@ulend
 
 +++
+## Remote connections
 
 [git clone](https://git-scm.com/docs/git-clone)
 
-git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. 
+@ul[template-note3]
+- git clone is a Git command line utility which is used to **target an existing repository** and create a clone, or copy of the target repository. 
+@ulend
 
 +++
+## Remote connections
 
 [git pull](https://git-scm.com/docs/git-pull)
-The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows.
-
-The git pull command is actually a combination of two other commands, git fetch followed by git merge.
+@ul[template-note3]
+- The git pull command is used to **fetch and download** content from a remote repository and immediately update the local repository to match that content.
+- **Merging remote upstream changes** into your local repository is a common task in Git-based collaboration work flows.
+- The git pull command is actually a **combination of two other commands**, git fetch followed by git merge.
+@ulend
 
 +++
+## Remote connections
 
 [git push](https://git-scm.com/docs/git-push)
 The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches. 
